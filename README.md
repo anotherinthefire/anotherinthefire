@@ -1,6 +1,34 @@
-## Hollabels, I'm Godfrey ༼ ◕_◕ ༽ 
+## 🦖Hollabels, I'm Godfrey 
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ron-godfrey-ultra-036298241/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/galawang.jedi)
+
 
 **Project Manager | Systems Analyst | Web Developer | BSIT Student**
+
+
+About me:
+- Has a strong passion for developing innovative solutions and creating impactful software applications. 
+<!-- - With a solid foundation in programming languages and a keen eye for detail, Committed to deliver a high-quality software solutions that meet user needs and drive positive outcomes. -->
+
+- Experienced Project Manager skilled in various IT projects such as web development, systems analysis and design, software engineering, and system integration and architecture.
+
+- Led a team in designing and implementing a new database system, and just finished developing and maintaining high-performance infrastructure for a large-scale website.
+
+- Strong analytical skills, team leadership, risk management, problem-solving, and communication. 
+
+- Possesses project implementation experience as a student project manager for three years and is proficient in project management and cross-team collaboration.
+
+- Eager to leverage skills and knowledge to contribute to cutting-edge software development projects. Continuously expanding expertise in software engineering through ongoing learning and keeping up with the latest industry trends.
+
+
+
+
+Currenly:
+- taking Bachelor of Science in Information Technology
+- enhancing ReactJS skill
+- studying and creating MERN Stack project
+- taking Microsoft Project Management course 
+- updating my projects readme
 
 ### Language and Tools:
 
@@ -12,17 +40,20 @@
 | `Database` | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
 | `Framework, Platform & Libraries` | ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  	![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) |
 | `Version Control`| 	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
-| `Hosting` | ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
+| `Hosting` | ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) |
 | `IDEs/Editors` | ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black) ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) |
 | `Others` | ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 
-WIP
+
+![npms.io (maintenance)](https://img.shields.io/npms-io/maintenance-score/a?style=for-the-badge)
 <!-- [![Anurag's github stats](https://readme-stats-gamma-gold.vercel.app/api?username=anotherinthefire&theme=blue-green)](https://readme-stats-gamma-gold.vercel.app) -->
 
 <!-- [![DenverCoder1's github streak](https://readme-stats-gamma-gold.vercel.app/api?username=anotherinthefire&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 
 <!-- <img align="left" alt="suntstat" src="https://readme-stats-anotherinthefire.vercel.app/api?username=anotherinthefire&show_icons=true&hide_border=true"/> -->
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
 
 Ask me anything here rongodfreyultra@gmail.com 
 <!--
