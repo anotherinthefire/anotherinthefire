@@ -17,9 +17,14 @@
 | `Others` | ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 
+WIP
+<!-- [![Anurag's github stats](https://readme-stats-gamma-gold.vercel.app/api?username=anotherinthefire&theme=blue-green)](https://readme-stats-gamma-gold.vercel.app) -->
 
+<!-- [![DenverCoder1's github streak](https://readme-stats-gamma-gold.vercel.app/api?username=anotherinthefire&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 
-For collaboration, contact me through rongodfreyultra@gmail.com 
+<!-- <img align="left" alt="suntstat" src="https://readme-stats-anotherinthefire.vercel.app/api?username=anotherinthefire&show_icons=true&hide_border=true"/> -->
+
+Ask me anything here rongodfreyultra@gmail.com 
 <!--
 **anotherinthefire/anotherinthefire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
