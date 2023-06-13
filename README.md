@@ -49,7 +49,7 @@ Currenly:
 ![npms.io (maintenance)](https://img.shields.io/npms-io/maintenance-score/a?style=for-the-badge)
 <!-- [![Anurag's github stats](https://readme-stats-gamma-gold.vercel.app/api?username=anotherinthefire&theme=blue-green)](https://readme-stats-gamma-gold.vercel.app) -->
 
-[![DenverCoder1's github streak](https://readme-stats-git-main-anotherinthefire.vercel.app/api?username=anotherinthefire&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![suntzaur's github streak](https://readme-stats-git-main-anotherinthefire.vercel.app/api?username=anotherinthefire&theme=transparent)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!-- <img align="left" alt="suntstat" src="https://readme-stats-anotherinthefire.vercel.app/api?username=anotherinthefire&show_icons=true&hide_border=true"/> -->
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
