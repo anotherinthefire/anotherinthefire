@@ -5,6 +5,7 @@
 
 **Project Manager | Systems Analyst | Web Developer | BSIT Student**
 
+<img src="https://github.com/anotherinthefire/anotherinthefire/assets/107034155/0413d557-e011-407f-91b0-a5a816139d8a" width="300">
 
 About me:
 - Has a strong passion for developing innovative solutions and creating impactful software applications. 
@@ -23,7 +24,7 @@ About me:
 
 
 
-Currenly:
+Currently:
 - taking Bachelor of Science in Information Technology
 - enhancing ReactJS skill
 - studying and creating MERN Stack project
