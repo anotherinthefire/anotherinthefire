@@ -25,7 +25,6 @@ About me:
 Currently:
 - taking Bachelor of Science in Information Technology
 - enhancing ReactJS skill
-- studying and creating MERN Stack project
 - taking Microsoft Project Management course 
 - updating my projects readme
 
