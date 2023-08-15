@@ -27,6 +27,7 @@ Currently:
 - enhancing ReactJS skill
 - taking Microsoft Project Management course 
 - updating my projects readme
+- working on a capstone project
 
 ### Language and Tools:
 
