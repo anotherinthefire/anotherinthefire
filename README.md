@@ -1,4 +1,6 @@
-## 🦖Hello, I'm Ultra 
+## 🦖Hello, this is Ultra
+
+<a href="https://app.daily.dev/suntzaur"><img src="https://api.daily.dev/devcards/6d4e3d42d10740d49737d7cd2787ef99.png?r=ooj" width="400" alt="Ron Ultra's Dev Card"/></a>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ron-godfrey-ultra-036298241/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/galawang.jedi)
 
