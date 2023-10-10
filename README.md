@@ -30,6 +30,7 @@ Currently:
 - taking Microsoft Project Management course 
 - updating my projects readme
 - working on a capstone project
+- Front End ReactJS Dev Intern
 
 ### Language and Tools:
 
